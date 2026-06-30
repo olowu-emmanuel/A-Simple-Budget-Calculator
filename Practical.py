@@ -1,5 +1,5 @@
 # Input name 
-name = input("Emter your name: ")
+name = input("Enter your name: ")
 print(f"Hello {name}! Lets calculate your budget.\n")
 
 # Income
